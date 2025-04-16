@@ -2,13 +2,12 @@
 
 ## Overview
 
-This project explores the Los Angeles Airbnb listings dataset (`listings.csv`) to uncover trends and insights within the short-term rental market. The analysis focuses on understanding the factors that contribute to a successful listing by examining host behavior, market dynamics, pricing strategies, and listing characteristics like property type and location.
+This project explores the Los Angeles Airbnb listings dataset (`listings.csv`) to uncover trends and insights within the short-term rental market. The analysis focuses on understanding the factors that contribute to a successful listing by examining host behavior, market dynamics, pricing strategies, and listing characteristics like property type and location. As a host with 2 listings (as of the time of doing this project), I found this analysis very interesting and was curious about what I could discover. 
 
 ## Dataset
 
 The dataset used is a snapshot of Airbnb listings in Los Angeles, California, containing detailed information about properties, hosts, pricing, availability, and reviews.
-
-*(Note: If you know the source or date of the dataset, you could add it here, e.g., "Dataset sourced from [Source Name/Inside Airbnb] as of [Date].")*
+Dataset sourced from [Kaggle/Los Angeles Airbnb Listings](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings) as of December 2024.
 
 ## Objectives
 
@@ -63,4 +62,4 @@ To run the notebook locally:
 ---
 
 *Author: Isaac Edem Adoboe*
-*Date: Based on Notebook Metadata (e.g., December 2024)*
+*Date: December 2024*
