@@ -7,7 +7,8 @@ This project explores the Los Angeles Airbnb listings dataset (`listings.csv`) t
 ## Dataset
 
 The dataset used is a snapshot of Airbnb listings in Los Angeles, California, containing detailed information about properties, hosts, pricing, availability, and reviews.
-Dataset sourced from [Kaggle/Los Angeles Airbnb Listings](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings) as of December 2024.
+
+* Dataset sourced from [Kaggle/Los Angeles Airbnb Listings](https://www.kaggle.com/datasets/oscarbatiz/los-angeles-airbnb-listings) as of December 2024.
 
 ## Objectives
 
@@ -61,5 +62,5 @@ To run the notebook locally:
 
 ---
 
-*Author: Isaac Edem Adoboe*
+*Author: Isaac Edem Adoboe*  
 *Date: December 2024*
